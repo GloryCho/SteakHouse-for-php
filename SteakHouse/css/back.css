@@ -1,0 +1,208 @@
+@char@CHARSET "UTF-8";
+body{
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #543d27;
+	background: #2c261d;
+	overflow: hidden;
+}
+
+.header{
+
+
+width: 1930px;
+height: 100px;
+
+
+
+}
+
+.logo{
+
+
+width:300px;
+height:100px;
+
+color:#ffffff;
+font-size:45px;
+text-align:center;
+line-height:100px;
+float: right;
+margin-right: 0px;
+
+}
+.logo a{
+text-decoration:none;
+margin-top:60px;
+margin:auto;
+color:#ffffff;
+margin-left:auto;
+margin-right:auto;
+
+
+}
+.system_name{
+margin-left: 0px;
+	width: 400px;
+	height: 100px;
+	color: #D3D3D3;
+	font-size: 24px;
+	text-align: center;
+	line-height: 100px;
+	
+}
+.opt{
+
+
+	width: 1930px;
+	height: 40px;
+position: absolute;
+	background-color: #DCDCDC;
+}
+.main{
+
+
+	width: 1930px;
+	height: 820px;
+	background-color: #F5F5F5;
+	
+}
+.right{
+
+
+
+	height: 800px;
+	width: 200px;
+	float: left;
+	background-color: #4F4F4F;
+	
+	
+}
+.left{
+
+height: 800px;
+width: 1730px;
+
+margin-left: 200px;
+border-left:2px solid #4F4F4F;
+
+
+}
+	
+
+.r_item{
+
+background-color: #BEBEBE;
+	width: 200px;
+	height: 40px;
+	
+	line-height: 40px;
+	font-size: 16px;
+	color: #000000;
+
+}
+.l_item{
+
+	background-color: #BEBEBE;
+	width: 1730px;
+	height: 40px;
+	
+	line-height: 40px;
+	font-size: 16px;
+		color: #000000;
+
+}
+.r_content{
+
+
+	width: 200px;
+	height: 760px;
+	
+}
+.r_item a{
+
+	margin-left: 8px;
+}
+.l_item a{
+	margin-left: 8px;
+}
+
+.l_content{
+
+
+	width: 1730px;
+	height: 760px;
+	
+}
+.mlist{
+
+list-style: none;
+}
+.mlist li{
+list-style: none;
+font-size: 18px;
+color: #fff;
+margin-left: 2px;
+
+}
+.detail{
+
+
+
+	margin-top: 10px;
+}
+.detail a{
+
+
+	color: #fff;
+	text-decoration: none;
+
+}
+.login_name{
+
+	height: 40px;
+	width: 100px;
+
+
+	float: left;
+	color: #000;
+	font-size: 17px;
+	line-height: 40px;
+	padding-left: 1450px;
+}
+.opt_ite{
+width: 600px;
+height: 40px;
+
+margin-top: 0px;
+padding-left: 1600px;
+position: absolute;
+
+}
+.opt_ite li{
+
+  margin-top: 0px;
+  list-style: none;
+	float: left;
+	width: 60px;
+	height: 40px;
+	line-height: 40px;
+	padding-top: 0px;
+
+
+
+}
+a{
+	text-decoration: none;
+
+}
+.opt_ite li a{
+
+font-size: 16px;
+	color:#000;
+
+
+}
